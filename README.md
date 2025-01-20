@@ -1,3 +1,7 @@
+# ATTENTION
+1. This is a fork of https://github.com/andrey-ushakov/esc_pos_printer because the repo seems to be abandoned.
+2. There are already PRs opened in the original repo that is adressing what this fork is trying to solve.
+
 # esc_pos_printer
 
 [![Pub Version](https://img.shields.io/pub/v/esc_pos_printer)](https://pub.dev/packages/esc_pos_printer)
